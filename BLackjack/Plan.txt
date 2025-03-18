@@ -1,0 +1,30 @@
+# init the game
+    Create Player
+    Create Dealer
+
+    Create deck of cards
+            deck = array of cards
+
+            card
+                -suit
+                -number
+
+    Shuffle Cards
+
+# Start the game
+
+    # each round
+
+    deal cards
+            one per player, starting with the players, two times
+
+    Players turn
+        hit - get another card
+        stand - do nothing / end turn
+
+    Check if player bust (over 21)
+
+    Dealer turns
+        Rules: dealer hits 16 and under
+
+    Check who wins
